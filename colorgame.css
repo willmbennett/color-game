@@ -42,10 +42,6 @@ button {
     text-transform: uppercase;
 }
 
-#reset {
-    width: 140px;
-}
-
 button:hover {
     color: white;
     background-color: steelblue;
